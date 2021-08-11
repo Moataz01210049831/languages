@@ -1,26 +1,26 @@
 [{
       "id": 1,
       "name": "English",
-      "image": "https://hm-consults.com/old/11.png"
+      "image": "11.png"
     },
     {
       "id": 2,
       "name": "Francais",
-      "image": "https://hm-consults.com/old/12.png"
+      "image": "12.png"
     },
     {
       "id": 3,
       "name": "Arabic",
-      "image": "https://hm-consults.com/old/13.png"
+      "image": "13.png"
     },
     {
       "id": 4,
       "name": "Russia",
-       "image": "https://hm-consults.com/old/14.png"    
+       "image": "14.png"    
     },
     {
       "id": 5,
       "name": "Chinese",
-       "image": "https://hm-consults.com/old/15.png"
+       "image": "15.png"
     }
 ]
